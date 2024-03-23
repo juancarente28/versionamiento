@@ -136,7 +136,7 @@ echo "<p style='font-weight: bolder; font-size: 50px; color:  rgb(241, 243, 246)
             <input type="submit" style= "color: #ffff; background-color: #031e01" class="btn btn-primary" value="Ingresar">
         </div>
 
-        <p>No estás registrado? <a href="registro.php" style="color: #050451;">Registrate aquí.</a>.</p>
+        <p>An no estás registrado? <a href="registro.php" style="color: #050451;">Registrate aquí.</a>.</p>
     </form>
 </div>
 </body>
